@@ -1,0 +1,16 @@
+img{
+    width: 500px;
+    height: 300px;
+
+}
+
+#paquetes>img{
+    width: 250px;
+}
+header>nav>a{
+    justify-content: left;
+    display: flex;
+}
+footer>img{
+    width: 250px;
+}
